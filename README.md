@@ -1,4 +1,4 @@
-#redux-example-youtube-search
+# redux-example-youtube-search
 
 ```bash
 > git clone https://github.com/wiziple/redux-example-youtube-search.git
